@@ -1,15 +1,19 @@
-*{
-	border: 0;
-	padding: 0;
-	box-sizing: 0;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-body{
-	height: 100vh;
-	min-width: 475px;
-	max-width: 1440px;
-	background-color: #181818;
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    min-width: 475px;
+    max-width: 1440px;
+    background-color: #181818;
 }
+
 
 .container{
 	display: grid;
