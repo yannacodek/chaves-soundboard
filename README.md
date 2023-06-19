@@ -1,5 +1,5 @@
 # chaves-soundboard
-![Descrição da imagem](chaves-soundboard/imagens/chaves.jpg)
+![](/imagens/chaves.jpg)
 
 Chaves Soundboard é uma aplicação web simples que permite aos usuários reproduzir trechos de áudio do popular programa de TV mexicano "El Chavo del Ocho" (conhecido como "Chaves" no Brasil). A aplicação oferece uma coleção de trechos sonoros icônicos do programa que os usuários podem reproduzir com apenas um clique.
 
